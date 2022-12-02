@@ -1,1 +1,1 @@
-informacion de catalogo
+informacion de catalogo prueba
